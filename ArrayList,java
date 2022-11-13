@@ -1,0 +1,2 @@
+U need to fill array list first before adding elements indexwise to it. It can only accept that if you have started from index 0. 
+You can then replace the elements using 'set' method.
