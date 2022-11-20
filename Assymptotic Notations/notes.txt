@@ -1,0 +1,2 @@
+f(n) is theta(g(n))  then  g(n) is theta(f(n))
+f(n) is O(g(n))  then  g(n) is omega(f(n))
